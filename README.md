@@ -1,1 +1,1 @@
-# RecSys_Content_based
+# EDA Projects
